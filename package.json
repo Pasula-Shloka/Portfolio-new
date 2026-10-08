@@ -6,7 +6,7 @@
   "homepage": "https://pasula-shloka.github.io/Portfolio-new",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && mkdir -p assets && cp -r dist/assets/* assets/ && cp public/.nojekyll . && cp public/404.html . && cp public/resume.pdf .",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",

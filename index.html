@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="/Portfolio-new/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Pasula Shloka - Computer Science Student & Frontend React Developer Portfolio" />
     <meta name="author" content="Pasula Shloka" />
@@ -20,9 +20,25 @@
         }
       }(window.location))
     </script>
+    <script>
+      if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = '/Portfolio-new/assets/index.css';
+        document.head.appendChild(link);
+      }
+    </script>
   </head>
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    <script>
+      if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
+        var s = document.createElement('script');
+        s.type = 'module';
+        s.src = '/Portfolio-new/assets/index.js';
+        document.body.appendChild(s);
+      }
+    </script>
   </body>
 </html>

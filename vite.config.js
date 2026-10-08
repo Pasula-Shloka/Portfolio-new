@@ -5,4 +5,13 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   base: "/Portfolio-new/",
   plugins: [react(), tailwindcss()],
+  build: {
+    rollupOptions: {
+      output: {
+        entryFileNames: "assets/index.js",
+        chunkFileNames: "assets/[name].js",
+        assetFileNames: "assets/[name].[ext]",
+      },
+    },
+  },
 });
