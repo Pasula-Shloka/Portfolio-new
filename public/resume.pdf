@@ -1,0 +1,101 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3528 >>
+stream
+0.08 0.08 0.08 rg
+BT /F2 22 Tf 50 755 Td (PASULA SHLOKA) Tj ET
+0.30 0.30 0.30 rg
+BT /F1 10.5 Tf 50 729 Td (Hyderabad, Telangana, India  |  pasulashlokareddy@gmail.com) Tj ET
+0.30 0.30 0.30 rg
+BT /F1 10.5 Tf 50 714.5 Td (GitHub: github.com/Pasula-Shloka  |  LinkedIn: linkedin.com/in/pasula-shloka) Tj ET
+0.12 0.35 0.70 rg
+BT /F2 12.5 Tf 50 692.0 Td (CAREER OBJECTIVE) Tj ET
+0.20 0.20 0.20 rg
+BT /F1 10 Tf 50 675.5 Td (Dedicated Computer Science Engineering student with a strong passion for frontend and full-stack web) Tj ET
+0.20 0.20 0.20 rg
+BT /F1 10 Tf 50 661.5 Td (development. Proficient in React.js, modern JavaScript, Tailwind CSS, Java, and Python. Seeking opportunities) Tj ET
+0.20 0.20 0.20 rg
+BT /F1 10 Tf 50 647.5 Td (to contribute to innovative software solutions and grow as a software engineer.) Tj ET
+0.12 0.35 0.70 rg
+BT /F2 12.5 Tf 50 625.5 Td (EDUCATION) Tj ET
+0.15 0.15 0.15 rg
+BT /F2 11 Tf 50 609.0 Td (Bachelor of Technology in Computer Science & Engineering) Tj ET
+0.30 0.30 0.30 rg
+BT /F1 10 Tf 50 594.0 Td (K L University, Hyderabad, Telangana  |  2023 - 2027) Tj ET
+0.12 0.35 0.70 rg
+BT /F2 12.5 Tf 50 572.0 Td (TECHNICAL SKILLS) Tj ET
+0.20 0.20 0.20 rg
+BT /F2 10 Tf 50 555.5 Td (Languages:           ) Tj ET
+0.25 0.25 0.25 rg
+BT /F1 10 Tf 50 541.5 Td (  JavaScript \(ES6+\), Java, Python, HTML5, CSS3) Tj ET
+0.20 0.20 0.20 rg
+BT /F2 10 Tf 50 527.5 Td (Web & Frameworks:    ) Tj ET
+0.25 0.25 0.25 rg
+BT /F1 10 Tf 50 513.5 Td (  React.js, Tailwind CSS, Vite, React Router) Tj ET
+0.20 0.20 0.20 rg
+BT /F2 10 Tf 50 499.5 Td (Tools & Platforms:   ) Tj ET
+0.25 0.25 0.25 rg
+BT /F1 10 Tf 50 485.5 Td (  Git, GitHub, VS Code, npm, ESLint) Tj ET
+0.12 0.35 0.70 rg
+BT /F2 12.5 Tf 50 463.5 Td (PROJECTS) Tj ET
+0.15 0.15 0.15 rg
+BT /F2 11 Tf 50 447.0 Td (Recipe Finder Application  |  React, Vite, Tailwind CSS) Tj ET
+0.30 0.30 0.30 rg
+BT /F1 9.5 Tf 50 432.0 Td (  - Designed and developed a responsive web application to search and discover recipes.) Tj ET
+0.30 0.30 0.30 rg
+BT /F1 9.5 Tf 50 418.5 Td (  - Implemented dynamic search filtering, state management, and intuitive user interface components.) Tj ET
+0.15 0.15 0.15 rg
+BT /F2 11 Tf 50 397.0 Td (Lost and Found Portal  |  HTML, CSS, JavaScript) Tj ET
+0.30 0.30 0.30 rg
+BT /F1 9.5 Tf 50 382.0 Td (  - Created a digital campus portal enabling students to report, search, and claim lost belongings.) Tj ET
+0.30 0.30 0.30 rg
+BT /F1 9.5 Tf 50 368.5 Td (  - Built responsive forms with client-side data validation and categorized listings.) Tj ET
+0.15 0.15 0.15 rg
+BT /F2 11 Tf 50 347.0 Td (Animal Conservation Website  |  Web Development) Tj ET
+0.30 0.30 0.30 rg
+BT /F1 9.5 Tf 50 332.0 Td (  - Developed an educational and awareness website highlighting endangered wildlife and conservation.) Tj ET
+0.30 0.30 0.30 rg
+BT /F1 9.5 Tf 50 318.5 Td (  - Engineered multi-device responsive layouts using clean CSS and interactive UI sections.) Tj ET
+0.15 0.15 0.15 rg
+BT /F2 11 Tf 50 297.0 Td (Digital Library System  |  Java) Tj ET
+0.30 0.30 0.30 rg
+BT /F1 9.5 Tf 50 282.0 Td (  - Implemented an object-oriented Java system for cataloging books and managing issue/return operations.) Tj ET
+0.12 0.35 0.70 rg
+BT /F2 12.5 Tf 50 260.5 Td (CERTIFICATIONS & ACTIVITIES) Tj ET
+0.25 0.25 0.25 rg
+BT /F1 9.5 Tf 50 244.0 Td (  - Frontend Development & React.js Training) Tj ET
+0.25 0.25 0.25 rg
+BT /F1 9.5 Tf 50 230.5 Td (  - Java Programming & Object-Oriented Principles) Tj ET
+0.25 0.25 0.25 rg
+BT /F1 9.5 Tf 50 217.0 Td (  - Python Programming for Problem Solving) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000003831 00000 n 
+0000003901 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3976
+%%EOF

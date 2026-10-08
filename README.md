@@ -1,16 +1,68 @@
-# React + Vite
+# Pasula Shloka - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website built using **React 19**, **Vite**, **Tailwind CSS**, and **React Router v7**.
 
-Currently, two official plugins are available:
+🔗 **Live Website**: [https://pasula-shloka.github.io/Portfolio-new/](https://pasula-shloka.github.io/Portfolio-new/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Responsive & Modern Design**: Clean UI that looks great across mobile, tablet, and desktop screens.
+- **Dark Mode Support**: Seamless toggle between Dark and Light themes with persistent state.
+- **Interactive Projects Gallery**: Real-time project search and dynamic category filtering (React, Web Development, Java).
+- **Downloadable Resume**: Built-in resume viewer and one-click PDF download.
+- **Contact & Socials**: Interactive contact form with direct links to GitHub and LinkedIn.
+- **Automated GitHub Pages Deployment**: GitHub Actions workflow and `gh-pages` support for instant continuous delivery.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend**: React 19, JavaScript (ES6+)
+- **Styling**: Tailwind CSS
+- **Routing**: React Router (`HashRouter` for zero-configuration GitHub Pages hosting)
+- **Bundler**: Vite
+- **Deployment**: GitHub Actions / GitHub Pages
+
+---
+
+## 📦 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Pasula-Shloka/Portfolio-new.git
+cd Portfolio-new
+```
+
+### 2. Install dependencies
+```bash
+npm install
+```
+
+### 3. Run development server
+```bash
+npm run dev
+```
+
+### 4. Build for production
+```bash
+npm run build
+```
+
+---
+
+## 🚀 Deployment to GitHub Pages
+
+### Option A: GitHub Actions (Recommended)
+This repository includes `.github/workflows/deploy.yml`. 
+1. In your GitHub repository, go to **Settings** > **Pages**.
+2. Under **Build and deployment** > **Source**, choose **GitHub Actions**.
+3. Every push to `main` will automatically build and deploy the portfolio.
+
+### Option B: npm run deploy
+Run:
+```bash
+npm run deploy
+```
+This builds the site and pushes the production bundle to the `gh-pages` branch. In **Settings** > **Pages**, set **Source** to `Deploy from a branch` and select `gh-pages` / `/ (root)`.
